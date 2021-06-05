@@ -7,7 +7,7 @@ from datetime import datetime
 from queue import Queue
 from flask import Flask, Response, render_template, request
 
-api_key = "06e80153d356ad531b22bffd8082137c"
+api_key = "API key goes here"
 lat = "33.8753"
 lon = "-117.5664"
 exclude = "currently,daily,alerts"
